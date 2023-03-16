@@ -1,0 +1,18 @@
+.Listing header {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.Listing main {
+    margin: auto;
+    width: 60vw;
+}
+
+.Listing ul {
+    list-style: none;
+}
+
+.Listing li {
+    margin: 10px;
+}

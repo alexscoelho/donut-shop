@@ -1,0 +1,31 @@
+.Details section {
+    background-color: white;
+    color: black;
+    width: 40vw;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.Details section>:first-child {
+    text-align: center;
+    font-size: 40px;
+}
+
+.Details section>:nth-child(2) {
+    font-size: 20px;
+}
+
+.Details .donutImage {
+    display: flex;
+    justify-content: center;
+}
+
+.Details ul {
+    list-style: square;
+    color: lightcoral;
+}
+
+.Details p {
+    font-weight: 700;
+}
